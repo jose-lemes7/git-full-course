@@ -1,2 +1,3 @@
 # git-full-course
-Learn Git &amp; GitHub for Beguinners to Advanced - Code with Mosh
+Learn Git andj GitHub for Beguinners to Advanced - Code with Mosh
+(A new line of code)
